@@ -1,6 +1,6 @@
 MW2 UA WOOF,online
 MW19 AIO CHAIR,online
-WOOFER BLOCKER,online
+WOOFER BLOCKER,offline
 MW2 VIPCHAIR,online
 IRIS FORCE SAVE,online
 MW2 SYNDICATE,in update
