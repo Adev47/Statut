@@ -4,6 +4,6 @@ WOOFER BLOCKER,online
 MW2 VIPCHAIR,online
 IRIS FORCE SAVE,online
 MW2 SYNDICATE,online
-MW2 OLD AIO,online
+MW2 OLD AIO,offline
 MW2AIO,online
 MW19 AIO&FORCESAVE,online
